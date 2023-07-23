@@ -25,7 +25,7 @@
   --fluent-accent-hue-sat: 207, 100%;
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
-  --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/1028575634810740789/1132377847240077443/481663.jpg);
+  --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/1062500693912592434/1130203213384130630/x0n3cb697tab1.jpg);
   --fluent-acrylic-background-blur: 24px;
   --fluent-acrylic-background-dimness: 75%;
   --fluent-acrylic-background-saturate: 140%;
