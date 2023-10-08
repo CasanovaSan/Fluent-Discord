@@ -25,7 +25,7 @@
   --fluent-accent-hue-sat: 207, 100%;
   --fluent-accent-lightness: 42%;
   --fluent-text-on-accent-color: 0, 0, 0;
-  --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/1062500693912592434/1130203213384130630/x0n3cb697tab1.jpg);
+  --fluent-acrylic-background: url(https://cdn.discordapp.com/attachments/1074442134788264046/1160653516096937984/wallhaven-2eewrg.jpg?ex=653571d2&is=6522fcd2&hm=013b8ee413ca6b063177f04d6f7ef31411799962ffa65480f0495dc4a8db053e&);
   --fluent-acrylic-background-blur: 24px;
   --fluent-acrylic-background-dimness: 75%;
   --fluent-acrylic-background-saturate: 140%;
